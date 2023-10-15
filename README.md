@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr22xx" alt="mr22xx" /></a> </p>
 
-- 🌱 I’m currently learning **React,Laracel etc**
+- 🌱 I’m currently learning **React,Laravel etc**
 
 - 👨‍💻 My Simple Project With React Js [[https://mr22xx.github.io/myPorto/?fbclid=PAAabSncwhVxbTZ8FaqXHhclFc4IfFSJV51x7ZssgtmRLXPf9YW-M3-8nGD7U_aem_AW7BYVbCGF4UQkCHoCIAPgcNLWCKud_YERlYzFGu6Zj1Er9ZwB5KbSHyXIArUkuNyWg](https://mr22xx.github.io/myPorto/?fbclid=PAAabSncwhVxbTZ8FaqXHhclFc4IfFSJV51x7ZssgtmRLXPf9YW-M3-8nGD7U_aem_AW7BYVbCGF4UQkCHoCIAPgcNLWCKud_YERlYzFGu6Zj1Er9ZwB5KbSHyXIArUkuNyWg](http://Mr22XX.github.io/RayhanFilms)](https://mr22xx.github.io/RayhanFilms/)
 
