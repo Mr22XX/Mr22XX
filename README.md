@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mr22XX&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr22XX&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr22XX&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 [![RayhanMA's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mr22XX&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
