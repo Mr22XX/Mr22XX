@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr22xx" alt="mr22xx" /></a> </p>
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr22xx&show_icons=true&locale=en" alt="mr22xx" /></p>
