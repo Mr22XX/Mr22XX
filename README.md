@@ -9,5 +9,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr22xx&show_icons=true&locale=en" alt="mr22xx" /></p>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
