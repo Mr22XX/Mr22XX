@@ -9,5 +9,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![RayhanMA's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mr22XX&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
